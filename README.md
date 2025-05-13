@@ -1,3 +1,3 @@
 # Deadcat
 
-## Thisis the official github for deadcat
+## This is the official github for deadcat
