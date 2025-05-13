@@ -1,3 +1,3 @@
-# Deadcat
+## Hi, welcome to DeadCat! 
 
-## This is the official github for deadcat
+# This is the official GitHub for DeadCat.
